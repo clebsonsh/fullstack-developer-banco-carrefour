@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c9lIqGg5XkeuZB/W/O9OYBgTt9VmMBRMFGp5HhaIzo1wtbeog9efQlOClGP33mKbCxMYTyo5SO8FP8CEgx9WAw==",
+  "success": true,
+  "projectFilePath": "/home/clebson/Projects/fullstack-developer-banco-carrefour/Classes/Classes.csproj",
+  "expectedPackageFiles": [
+    "/home/clebson/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
